@@ -664,6 +664,6 @@ ul {
     background: rgba(33, 150, 243, 0.9);
 }
 
-.box:hover .overlay-message {
+.flex-element:hover .overlay-message {
     transform: translateY(0);
 }
